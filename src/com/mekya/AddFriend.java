@@ -40,6 +40,7 @@ public class AddFriend extends Activity {
 		
 		addFriendButton.setOnClickListener(new OnClickListener(){
 
+
 			public void onClick(View arg0) {
 				if ( friendUserNameText.length() > 0 )
 				{
